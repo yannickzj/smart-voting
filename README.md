@@ -1,4 +1,8 @@
-# Course Project
+# Smart Voting
+
+## Introduction
+
+This is the final project for the course CS656 Computer Networks.
 
 ## Prerequisites
 
@@ -6,6 +10,7 @@ Here's the software you need to run the program:
 + go-ethereum (>= 1.7.3)
 + Solidity (>= 0.4.18)
 + Truffle (>= 4.0.1)
++ Ganache (>= 1.0.1)
 
 ## How to set up the private Ethereum network
 
@@ -45,3 +50,6 @@ truffle test --network <private/ganache>
 ```
 ubuntu 16.04
 ```
+
+## Project report
+Please review the *report.pdf* for details.
